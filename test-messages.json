@@ -1,0 +1,22 @@
+{
+    "Visit the Twilio booth at Hall A 03 during WeAreDeveloper World Congress": ["GSM-7", 504],
+    "Rumors say there will be free healthy smoothies at the Twilio booth 🥤🍓🍍": ["UCS-2", 1184],
+    "Ahoy World": ["GSM-7", 70],
+    "This is a test message with special characters: ñáéíóú.": ["UCS-2", 880],
+    "अनुच्छेद": ["UCS-2", 128],
+    "Z͑ͫ̓ͪ̂ͫ̽͏̴̙̤̞͉͚̯̞̠͍A̴̵̜̰͔ͫ͗͢L̠ͨͧͩ͘G̴̻͈͍͔̹̑͗̎̅͛́Ǫ̵̹̻̝̳͂̌̌͘": ["UCS-2", 928],
+    "🌷🎁💩😜👍🏳️‍🌈": ["UCS-2", 256],
+    "🙌😂👍🎉😍🔥✨💯😏✌️": ["UCS-2", 304],
+    "Ĺo͂řȩm̅": ["UCS-2", 160],
+    "뎌쉐": ["UCS-2", 64],
+    "abcd": ["GSM-7", 28],
+    "‹": ["UCS-2", 16],
+    "０0": ["UCS-2", 32],
+    "🎉🔥✨💯": ["UCS-2", 112],
+    "ðððððð¥â¨ð¯ðâï¸": ["UCS-2", 656],
+    "здесь был Вася": ["UCS-2", 224],
+    "ñ": ["UCS-2", 32],
+    "ñ": ["GSM-7", 7],
+    "쁀缃㐤ꩨ斞᤿⨎◌犭": ["UCS-2", 160],
+    "$✨": ["UCS-2", 32]
+}
